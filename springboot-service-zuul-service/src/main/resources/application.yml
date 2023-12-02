@@ -1,6 +1,8 @@
 spring:
   application:
     name: servicio-zuul-server
+  devtools:
+    add-properties: false
 server:
   port: 8090
 eureka:
@@ -27,4 +29,4 @@ hystrix:
       execution:
         isolation:
           thread:
-            timeoutInMilliseconds: 40000
+            timeoutInMilliseconds: 60000
