@@ -39,7 +39,34 @@
                 <testFailureIgnore>true</testFailureIgnore>
                 <shutdown>kill</shutdown> <!-- Use it if required-->
                 </configuration>
-            </plugin>
+            </plugin><plugin>
+    <groupId>org.apache.maven.plugins</groupId>
+    <artifactId>maven-compiler-plugin</artifactId>
+    <version>3.8.0</version>
+    <configuration>
+        <release>11</release>  <!--or <release>10</release>-->
+    </configuration>
+</plugin>
+  <plugin>
+    <groupId>org.apache.maven.plugins</groupId>
+    <artifactId>maven-toolchains-plugin</artifactId>
+    <version>1.1</version>
+    <executions>
+      <execution>
+        <goals>
+          <goal>toolchain</goal>
+        </goals>
+      </execution>
+    </executions>
+    <configuration>
+      <toolchains>
+        <jdk>
+          <version>11</version>
+          <vendor>sun</vendor>
+        </jdk>
+      </toolchains>
+    </configuration>
+  </plugin>
   </plugins>
 	</build>
 </project>
