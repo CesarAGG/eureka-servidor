@@ -12,7 +12,7 @@ import com.microservice.commons.users.entity.Usuario;
 public interface UsuarioRepository extends PagingAndSortingRepository<Usuario, Long> {
 	
 	@RestResource(path = "buscar-username")
-	public Usuario findByUsername(@Param("nombre") String nombre);
+	public Usuario findByUsername(String username);
 	
 	public Usuario findByUsernameAndEmail(String username, String email);
 
