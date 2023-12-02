@@ -1,0 +1,96 @@
+[33mcommit e3dbddaf23a49184cf110849f0553096e438d0a0[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: CesarAGG <71679922+CesarAGG@users.noreply.github.com>
+Date:   Fri Dec 1 19:31:01 2023 -0600
+
+    Video 4: Creando Repository Usuarios
+
+[33mcommit 9f70bec7b3ccfecf41ff41320ec004267bbf4186[m
+Author: CesarAGG <71679922+CesarAGG@users.noreply.github.com>
+Date:   Fri Dec 1 19:15:30 2023 -0600
+
+    Video 3: Relacion ManyToMany para Usuarios y Roles
+
+[33mcommit cd132495808b32979e564336d4b60d7f03bf4ede[m
+Author: CesarAGG <71679922+CesarAGG@users.noreply.github.com>
+Date:   Fri Dec 1 19:14:23 2023 -0600
+
+    Video 2: Generando Entidades Usuario y Role
+
+[33mcommit 1d82cb87590c791cefe75aee7e416e43a9ae8057[m
+Author: CesarAGG <71679922+CesarAGG@users.noreply.github.com>
+Date:   Fri Dec 1 19:10:06 2023 -0600
+
+    (TAREAS 5 y 6) Video 1: Creando Servicio Usuarios
+
+[33mcommit bba1dae9427514abf4774c02104bfbfe89737f52[m
+Merge: 48b291f eeb4651
+Author: CesarAGG <71679922+CesarAGG@users.noreply.github.com>
+Date:   Sun Nov 5 23:57:04 2023 -0600
+
+    Merge branch 'main' of https://github.com/CesarAGG/eureka-servidor
+
+[33mcommit 48b291f6a7888bceecda55f077392efa88ee5ff8[m
+Author: CesarAGG <71679922+CesarAGG@users.noreply.github.com>
+Date:   Sun Nov 5 23:56:43 2023 -0600
+
+    Tarea 4: Filtro personalizado
+
+[33mcommit eeb46515963e1bbc5b5adf0986621047d49cc2b8[m
+Author: CesarAGG <71679922+CesarAGG@users.noreply.github.com>
+Date:   Fri Nov 3 08:25:13 2023 -0600
+
+    Create README.md
+
+[33mcommit d76bac76c9216dcf428c3daf38aabf9e95e6f5fc[m
+Author: CesarAGG <71679922+CesarAGG@users.noreply.github.com>
+Date:   Fri Nov 3 08:23:25 2023 -0600
+
+    Video 8: Implementando Filtros Zuul
+
+[33mcommit af61af035305e5350c4576e173835484a722ce65[m
+Author: CesarAGG <71679922+CesarAGG@users.noreply.github.com>
+Date:   Fri Nov 3 07:38:09 2023 -0600
+
+    Video 7: Configuracion Inicial Zuul
+
+[33mcommit 3225b01aa1c48304a1e35bd5ce919efdd00ef40e[m
+Author: CesarAGG <71679922+CesarAGG@users.noreply.github.com>
+Date:   Fri Nov 3 06:53:05 2023 -0600
+
+    descomentar metodo generico en store controller
+
+[33mcommit 188b789f8cf80664d7de8eb1c5ff571b81608c4b[m
+Author: CesarAGG <71679922+CesarAGG@users.noreply.github.com>
+Date:   Fri Nov 3 06:50:45 2023 -0600
+
+    Video 6: Configuracion de Timeouts Hystrix
+
+[33mcommit 5d673af32d17801bdf1cd85719de125d23fc0f22[m
+Author: CesarAGG <71679922+CesarAGG@users.noreply.github.com>
+Date:   Fri Nov 3 05:28:30 2023 -0600
+
+    Video 5: Implementacion Hystrix y Ribbon
+
+[33mcommit d4f9c222a21ecdb3b9a84687aed9f1a8080fb634[m
+Author: CesarAGG <71679922+CesarAGG@users.noreply.github.com>
+Date:   Fri Nov 3 05:06:25 2023 -0600
+
+    Video 4: Puertos Dinamicos
+
+[33mcommit 8e56c5b8ba24c9002b642daa7fb40d5b570205dc[m
+Author: CesarAGG <71679922+CesarAGG@users.noreply.github.com>
+Date:   Fri Nov 3 04:45:00 2023 -0600
+
+    Video 3: Balanceo de Cargas
+
+[33mcommit 8316b8f5138398bf9f85f18bcbb80cc37cd54a4f[m
+Author: CesarAGG <71679922+CesarAGG@users.noreply.github.com>
+Date:   Fri Nov 3 03:41:54 2023 -0600
+
+    Video 2: Cliente
+
+[33mcommit efcf40d16276b351b212ec18e3cd0f02b8bda4bc[m
+Author: CesarAGG <71679922+CesarAGG@users.noreply.github.com>
+Date:   Thu Nov 2 20:41:28 2023 -0600
+
+    Video 1: Servidor
